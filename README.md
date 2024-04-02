@@ -4,7 +4,7 @@
 # Hello, fellow developers! 👋
 
 Welcome to my GitHub profile! I'm Khurshid, also known as Vantux or Van-x, a dedicated software engineer with a strong background in backend development and game development. I'm passionate about creating efficient, robust, and scalable solutions that push the boundaries of technology.
-strong junior developer
+And i'm a strong junior developer.
 ## 🚀 About Me
 
 - 💻 Proficient in languages like C, C++, C#, Python, JavaScript, and Assembly.
